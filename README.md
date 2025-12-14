@@ -26,15 +26,15 @@ The goal of this project is to demonstrate practical data analytics skills, from
 
 ### 🛠 Tools & Technologies
 
-Python: Pandas, NumPy (EDA & data cleaning)
+- Python: Pandas, NumPy (EDA & data cleaning)
 
-SQL: MySQL (business queries & analysis)
+- SQL: MySQL (business queries & analysis)
 
-Power BI: Interactive dashboard & visual analytics
+- Power BI: Interactive dashboard & visual analytics
 
-Gamma: Presentation (PPT)
+- Gamma: Presentation (PPT)
 
-Jupyter Notebook: Analysis environment
+- Jupyter Notebook: Analysis environment
 
 ---
 
