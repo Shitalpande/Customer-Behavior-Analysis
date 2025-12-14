@@ -39,15 +39,15 @@ Jupyter Notebook: Analysis environment
 ---
 
 ### 🔍 Project Steps
-- 1. Data Loading & Exploration (Python)
+### 1. Data Loading & Exploration (Python)
 
-Loaded dataset using Pandas
+- Loaded dataset using Pandas
 
-Reviewed structure using .info() and .describe()
+- Reviewed structure using .info() and .describe()
 
-Identified missing values and data inconsistencies
+- Identified missing values and data inconsistencies
 
-- 2. Data Cleaning & Feature Engineering
+### 2. Data Cleaning & Feature Engineering
 
 Handled missing values using appropriate techniques
 
