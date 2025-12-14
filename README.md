@@ -1,4 +1,4 @@
-# Customer-Behavior-Analysis
+## Customer-Behavior-Analysis
 ### 📊 Customer Behavior Analysis – Data Analytics Project
 ### 📌 Overview
 
@@ -10,11 +10,11 @@ The goal of this project is to demonstrate practical data analytics skills, from
 
 ### 📂 Dataset
 
-* Type: Customer shopping / transactional data
+#### Type: Customer shopping / transactional data
 
-* Records: ~3,900 rows
+#### Records: ~3,900 rows
 
-* Features include:
+#### Features include:
 
 - Customer demographics (age, gender, location, subscription status)
 
@@ -49,66 +49,66 @@ Jupyter Notebook: Analysis environment
 
 ### 2. Data Cleaning & Feature Engineering
 
-Handled missing values using appropriate techniques
+- Handled missing values using appropriate techniques
 
-Renamed columns for better readability
+- Renamed columns for better readability
 
-Created derived features (age groups, purchase frequency, customer segments)
+- Created derived features (age groups, purchase frequency, customer segments)
 
-- 3. SQL Analysis (MySQL)
+### 3. SQL Analysis (MySQL)
 
-Imported cleaned data into MySQL
+- Imported cleaned data into MySQL
 
-Wrote SQL queries to analyze:
+- Wrote SQL queries to analyze:
 
-Revenue trends
+- Revenue trends
 
-Customer segments
+- Customer segments
 
-Product performance
+- Product performance
 
-Discount and subscription impact
+- Discount and subscription impact
 
-- 4. Dashboard Development (Power BI)
+### 4. Dashboard Development (Power BI)
 
-Built an interactive dashboard including:
+- Built an interactive dashboard including:
 
-Revenue by category and customer type
+- Revenue by category and customer type
 
-Top products and customer segments
+- Top products and customer segments
 
-Subscription vs non-subscription analysis
+- Subscription vs non-subscription analysis
 
-Enabled filters for dynamic exploration
+- Enabled filters for dynamic exploration
 
-- 5. Reporting & Presentation
+### 5. Reporting & Presentation
 
-Created a structured analytical report
+- Created a structured analytical report
 
-Designed a professional presentation using Gamma to summarize insights and recommendations
+- Designed a professional presentation using Gamma to summarize insights and recommendations
 
 ---
 
 ### 📈 Dashboard Highlights
 
-Total revenue overview
+- Total revenue overview
 
-Customer segmentation (New, Returning, Loyal)
+- Customer segmentation (New, Returning, Loyal)
 
-Top-performing products and categories
+- Top-performing products and categories
 
-Subscription and discount analysis
+- Subscription and discount analysis
 
-Age-group and purchase behavior trends
+- Age-group and purchase behavior trends
 
 ---
 
 ### 📊 Key Results & Insights
 
-Loyal and repeat customers contribute the highest revenue
+- Loyal and repeat customers contribute the highest revenue
 
-Subscribers show higher average spending compared to non-subscribers
+- Subscribers show higher average spending compared to non-subscribers
 
-Certain products perform better with discounts, while others do not require them
+- Certain products perform better with discounts, while others do not require them
 
-Specific age groups and shipping preferences drive higher sales
+- Specific age groups and shipping preferences drive higher sales
