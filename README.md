@@ -6,13 +6,13 @@ This project focuses on analyzing customer shopping behavior to uncover meaningf
 
 The goal of this project is to demonstrate practical data analytics skills, from raw data processing to business-oriented storytelling.
 
-📂 Dataset
+-- 📂 Dataset
 
-Type: Customer shopping / transactional data
+*Type: Customer shopping / transactional data
 
-Records: ~3,900 rows
+*Records: ~3,900 rows
 
-Features include:
+*Features include:
 
 Customer demographics (age, gender, location, subscription status)
 
