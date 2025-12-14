@@ -1,26 +1,26 @@
 # Customer-Behavior-Analysis
-📊 Customer Behavior Analysis – Data Analytics Project
-📌 Overview
+### 📊 Customer Behavior Analysis – Data Analytics Project
+### 📌 Overview
 
 This project focuses on analyzing customer shopping behavior to uncover meaningful business insights. The end-to-end workflow includes data loading and analysis in Python, executing SQL queries in MySQL, and visualizing insights using an interactive Power BI dashboard. The findings are summarized through a detailed report and a presentation created using Gamma.
 
 The goal of this project is to demonstrate practical data analytics skills, from raw data processing to business-oriented storytelling.
 
--- 📂 Dataset
+📂 Dataset
 
-*Type: Customer shopping / transactional data
+* Type: Customer shopping / transactional data
 
-*Records: ~3,900 rows
+* Records: ~3,900 rows
 
-*Features include:
+ * Features include:
 
-Customer demographics (age, gender, location, subscription status)
+- Customer demographics (age, gender, location, subscription status)
 
-Purchase details (category, item, amount, discount, shipping type)
+- Purchase details (category, item, amount, discount, shipping type)
 
-Behavioral metrics (purchase frequency, review ratings)
+- Behavioral metrics (purchase frequency, review ratings)
 
-🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 
 Python: Pandas, NumPy (EDA & data cleaning)
 
@@ -32,7 +32,7 @@ Gamma: Presentation (PPT)
 
 Jupyter Notebook: Analysis environment
 
-🔍 Project Steps
+### 🔍 Project Steps
 1. Data Loading & Exploration (Python)
 
 Loaded dataset using Pandas
@@ -81,7 +81,7 @@ Created a structured analytical report
 
 Designed a professional presentation using Gamma to summarize insights and recommendations
 
-📈 Dashboard Highlights
+### 📈 Dashboard Highlights
 
 Total revenue overview
 
@@ -93,7 +93,7 @@ Subscription and discount analysis
 
 Age-group and purchase behavior trends
 
-📊 Key Results & Insights
+### 📊 Key Results & Insights
 
 Loyal and repeat customers contribute the highest revenue
 
