@@ -112,3 +112,9 @@ The goal of this project is to demonstrate practical data analytics skills, from
 - Certain products perform better with discounts, while others do not require them
 
 - Specific age groups and shipping preferences drive higher sales
+
+--- 
+
+### 📌 Conclusion
+
+This project demonstrates a complete data analytics lifecycle, combining Python, SQL, and Power BI to transform raw data into actionable business insights. It highlights strong analytical thinking, technical skills, and the ability to communicate results effectively.
